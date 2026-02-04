@@ -5,4 +5,9 @@ permalink: /about/
 ---
 # Acerca de Salud Integral
 
-Blog dedicado al bienestar holístico...
+Este es un sitio web para los estudiantes y profesores de la asignatura 
+Salud Integral 1 del Programa de Medicina de la Universidad del Tolima;
+en él se pueden publicar revisiones de tema, reporte de caso, anteproyectos
+de investigación, etc. 
+
+Cordiamente invitados todos a apoyar la construcción con participación activa. 
