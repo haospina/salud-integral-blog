@@ -21,85 +21,69 @@ Bienvenido al espacio colaborativo de Salud Integral. Aquí puedes:
 
 ### 2. **Proceso de Publicación:**
 
-```mermaid
-graph LR
-    A[Idea del artículo] --> B[Revisión con tutor]
+
+    A     [Idea del artículo] --> B[Revisión con tutor]
     B --> C[Redacción en formato]
     C --> D[Envío al blog]
     D --> E[Revisión por pares]
     E --> F[Publicación]
+    
 3. Formatos Requeridos:
+
 Para Revisiones de Tema:
+
 Extensión: 1500-3000 palabras
-
 Estructura: Introducción, Desarrollo, Conclusión
-
 Referencias: APA 7ma edición
-
 Palabras clave: 3-5 términos
 
 Para Casos Clínicos:
+
 Estructura SOAP:
-
 Subjetivo: Datos del paciente
-
 Objetivo: Hallazgos exploración
-
 Análisis: Diagnósticos diferenciales
-
 Plan: Tratamiento y seguimiento
 
 🎯 Criterios de Evaluación
 Componentes Evaluados:
+
 Calidad Científica (40%)
-
 Rigor metodológico
-
 Actualización bibliográfica
-
 Análisis crítico
 
 Integración de Saberes (30%)
-
-Conexión básico-clínica
-
+Correlación básico-clínica
 Enfoque biopsicosocial
-
 Relación teoría-práctica
 
 Claridad y Estructura (20%)
-
 Organización lógica
-
 Claridad expositiva
-
 Formato adecuado
 
 Originalidad (10%)
-
 Aportes personales
-
 Reflexión crítica
-
 Propuestas innovadoras
 
 📚 Recursos de Apoyo
+
 Plantillas Disponibles:
 Plantilla para Revisiones
-
 Formato Casos Clínicos
-
 Guía de Referencias APA
+
 Tutores Disponibles:
+
 Ciencias Básicas: Dr. Oscar Rojas
-
 Ciencias Clínicas: Dr. Douglas Rodríguez
-
 Salud Mental: Dr. Joan Aguilera
-
 Salud Pública: Dr. Daniel Pinilla
 
 ❓ Preguntas Frecuentes
+
 ¿Necesito tener un tutor asignado?
 Sí, todos los artículos deben ser supervisados por un tutor.
 
@@ -110,6 +94,6 @@ Sí, se fomenta el trabajo colaborativo.
 No hay límite, pero se valora la calidad sobre la cantidad.
 
 ¿Los artículos son evaluados con nota?
-Si es concertado con el profesor de la rotación.
+Es posible si es concertado con el profesor de la rotación.
 
 ¿Listo para publicar? Contacta a tu tutor y comienza a escribir tu primer artículo.
