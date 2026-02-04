@@ -1,22 +1,118 @@
-title: "Salud Integral"
-description: "Blog para la salud holística"
+# _config.yml - Blog Educativo de Medicina
+title: "Salud Integral - Educación Médica"
+description: "Espacio educativo para estudiantes de medicina integrando ciencias básicas, clínicas, salud mental y salud pública"
 baseurl: ""
 url: "https://salud-integral.www-haosp.org"
 
-# Tema seguro para GitHub Pages
-remote_theme: jekyll/minima
+# Tema educativo profesional
+remote_theme: pmarsceill/just-the-docs
+
+# Configuración del tema
+just_the_docs:
+  search_enabled: true
+  heading_anchors: true
+  color_scheme: "light"
+  
+  # Navegación estructurada
+  nav:
+    - title: "Inicio"
+      url: /
+    
+    - title: "👨‍⚕️ Ciencias Básicas"
+      url: /categorias/basicas/
+      children:
+        - title: "Anatomía y Fisiología"
+          url: /categorias/anatomia-fisiologia/
+        - title: "Bioquímica y Biología Molecular"
+          url: /categorias/bioquimica/
+        - title: "Microbiología y Patología"
+          url: /categorias/microbiologia-patologia/
+    
+    - title: "🏥 Ciencias Clínicas"
+      url: /categorias/clinicas/
+      children:
+        - title: "Semiología y Diagnóstico"
+          url: /categorias/semiologia/
+        - title: "Medicina Interna"
+          url: /categorias/medicina-interna/
+        - title: "Especialidades"
+          url: /categorias/especialidades/
+    
+    - title: "🧠 Salud Mental"
+      url: /categorias/salud-mental/
+      children:
+        - title: "Psicología Médica"
+          url: /categorias/psicologia-medica/
+        - title: "Psiquiatría Clínica"
+          url: /categorias/psiquiatria/
+        - title: "Neurociencias"
+          url: /categorias/neurociencias/
+    
+    - title: "🌍 Salud Pública"
+      url: /categorias/salud-publica/
+      children:
+        - title: "Epidemiología"
+          url: /categorias/epidemiologia/
+        - title: "Medicina Social"
+          url: /categorias/medicina-social/
+        - title: "Salud Comunitaria"
+          url: /categorias/salud-comunitaria/
+    
+    - title: "📚 Recursos"
+      url: /recursos/
+      children:
+        - title: "Guías de Publicación"
+          url: /recursos/guias-publicacion/
+        - title: "Formatos Casos Clínicos"
+          url: /recursos/formatos-casos/
+        - title: "Plantillas Investigación"
+          url: /recursos/plantillas-investigacion/
+    
+    - title: "👥 Para Estudiantes"
+      url: /estudiantes/
+      children:
+        - title: "Cómo Publicar"
+          url: /estudiantes/como-publicar/
+        - title: "Criterios de Evaluación"
+          url: /estudiantes/criterios-evaluacion/
+    
+    - title: "👨‍🏫 Para Profesores"
+      url: /profesores/
+      children:
+        - title: "Guía de Tutores"
+          url: /profesores/guia-tutores/
+        - title: "Rúbricas de Evaluación"
+          url: /profesores/rubricas/
+
+# Autor y configuración institucional
+author:
+  name: "Salud Integral - Educación Médica"
+  email: "educacion@salud-integral.www-haosp.org"
+  twitter: "SaludIntegralMed"
+
+institution:
+  name: "Programa de Medicina"
+  department: "Ciencias Clinicas"
+  university: "Universidad del Tolima"
+
+# Configuración build
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
 
-# Autor
-author:
-  name: "Héctor Augusto Ospina Angarita"
-  email: "haospina14@hotmail.com"
+# Paginación
+paginate: 5
+paginate_path: "/page:num/"
 
-# Build
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    
+    <div class="container medical-content">
+        <article class="post">
+            <header class="post-header">
+                <h1 class="post-title">{{ page.title }}</h1>
+                
+                <div class="post-meta">
+                    <span class="post-date">
+                        📅 {{ page.date | date: "%d de %B, %Y" }}
+                    </span>
+                    <span class="post-author">
+                        👨‍⚕️ {{ page.author | default: site.author.name }}
+                    </span>
+                </div>
+                
+                <div class="post-categories">
+                    {% for category in page.categories %}
+                    <span class="category-badge">{{ category }}</span>
+                    {% endfor %}
+                </div>
+                
+                <div class="post-tags">
+                    {% for tag in page.tags %}
+                    <span class="tag">#{{ tag }}</span>
+                    {% endfor %}
+                </div>
+            </header>
+            
+            <div class="post-content">
+                {{ content }}
+            </div>
+            
+            <footer class="post-footer">
+                <div class="learning-objectives">
+                    <h3>🎯 Objetivos de Aprendizaje</h3>
+                    {{ page.learning_objectives | markdownify }}
+                </div>
+                
+                <div class="key-points">
+                    <h3>🔑 Puntos Clave</h3>
+                    {{ page.key_points | markdownify }}
+                </div>
+                
+                <div class="references">
+                    <h3>📚 Referencias</h3>
+                    {{ page.references | markdownify }}
+                </div>
+            </footer>
+        </article>
+    </div>
+    
+    {% include footer.html %}
+</body>
+</html>
