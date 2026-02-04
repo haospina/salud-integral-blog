@@ -5,4 +5,7 @@ permalink: /contacto/
 ---
 # Contáctanos
 
-Información de contacto...
+
+Héctor Augusto Ospina Angarita 
+haospina@ut.edu.co
+X @haospinaa
