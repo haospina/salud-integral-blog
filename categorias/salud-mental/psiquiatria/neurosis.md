@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Categorías del Blog"
+title: "Salud Mental"
 permalink: /categorias/salud-mental/psiquiatria
 nav_order: 3
+parent: "Salud Mental"
 ---
 
 # 🎓 Categorías del Blog Educativo

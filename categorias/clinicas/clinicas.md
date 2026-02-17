@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Categorías del Blog"
+title: "Ciencias Clínicas"
 permalink: /categorias/clinicas/
-nav_order: 1
+nav_order: 2
+parent: "Ciencias Clínicas"
 ---
 
 # 🎓 Categorías del Blog Educativo

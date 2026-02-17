@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Categorías del Blog"
-permalink: /categorias/
-nav_order: 2
+title: "Salud Mental"
+permalink: /categorias/salud-mental
+nav_order: 3
+parent: "Salud Mental"
 ---
 
 # 🎓 Categorías del Blog Educativo

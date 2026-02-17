@@ -3,6 +3,7 @@ layout: default
 title: "Categorías del Blog"
 permalink: /categorias/
 nav_order: 2
+parent: "Ciencias Clínicas"
 ---
 
 # 🎓 Categorías del Blog Educativo

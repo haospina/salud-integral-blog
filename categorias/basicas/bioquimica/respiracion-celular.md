@@ -2,9 +2,10 @@
 layout: default
 title: "Generalidades"
 permalink: /categorias/basicas/bioquimica/
-nav_order: 2
+nav_order: 1
 has_children: true
 has_toc: true
+parent: "Ciencias Básicas"
 ---
 
 # 🔬 Ciencias Básicas

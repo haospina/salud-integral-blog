@@ -5,6 +5,7 @@ permalink: /categorias/basicas/anatomia-fisiologia/
 nav_order: 1
 has_children: true
 has_toc: true
+parent: "Ciencias básicas"
 ---
 
 # 🔬 Ciencias Básicas

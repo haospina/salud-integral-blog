@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Categorías del Blog"
-permalink: /categorias/
-nav_order: 2
+title: "Familiograma"
+permalink: /categorias/salud-publica/
+nav_order: 4
+parent: "Salud Pública"
 ---
 
 # 🎓 Categorías del Blog Educativo
