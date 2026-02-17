@@ -4,7 +4,7 @@ title: "Bienvenida al Blog de Salud Integral"
 
 date: 2026-02-01
 
-categories: [salud, bienestar, educacion]
+categories: [basicas, ciencias-clinicas, salud-mental, salud-publica]
 
 ---
 
