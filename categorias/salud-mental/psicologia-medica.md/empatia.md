@@ -2,11 +2,13 @@
 layout: default
 title: "Categorías del Blog"
 permalink: /categorias/
-nav_order: 2
+nav_order: 3
 ---
 
 # 🎓 Categorías del Blog Educativo
 
 Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
 
-## 🔬 **Salud publica**
+## 🔬 **Salud mental**
+
+# Empatía

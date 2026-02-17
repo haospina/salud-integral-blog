@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Categorías del Blog"
+permalink: /categorias/
+nav_order: 2
+---
+
+# 🎓 Categorías del Blog Educativo
+
+Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
+
+## 🔬 **Salud mental**
+

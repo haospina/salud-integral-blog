@@ -9,4 +9,6 @@ nav_order: 2
 
 Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
 
-## 🔬 **Salud publica**
+## 🔬 **Ciencias Clínicas**
+
+# Historia clínica
