@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Respiración celular"
-permalink: /basicas/bioquimica/respiracion-celular/
+title: "Bioquímica"
+permalink: /basicas/bioquimica/
 nav_order: 1
 has_children: true
 has_toc: true
-parent: "Bioquímica"
+parent: "Ciencias básicas"
 ---
 
 # 🔬 Ciencias Básicas
@@ -15,8 +15,3 @@ parent: "Bioquímica"
 Las ciencias básicas constituyen los cimientos del conocimiento médico. 
 En esta sección integramos:
 
-### 📚 **Subcategorías:**
-**Bioquímica y Biología Molecular**
-   - Metabolismo humano
-   - Genética médica
-   - Farmacología básica

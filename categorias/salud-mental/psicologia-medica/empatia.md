@@ -1,15 +1,11 @@
 ---
 layout: default
 title: "Empatía"
-permalink: /categorias/salud-mental/
-nav_order: 3
-parent: "Salud Mental"
+permalink: /salud-mental/psicologia-medica/empatia/
+nav_order: 1
+parent: "Psicología Médica"
 ---
 
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Salud mental**
-
 # Empatía
+
+La importancia de la empatía en la relacion médico-paciente. 

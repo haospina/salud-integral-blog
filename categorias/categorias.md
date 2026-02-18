@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "Categorías del Blog"
+title: "Categorías"
 permalink: /categorias/
-nav_order: 2
+nav_order: 1
+has_children: true 
 ---
 
 # 🎓 Categorías del Blog Educativo
 
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
+Este blog está organizado en cuatro pilares fundamentales de la educación médica:
 
 ## 🔬 **Ciencias Básicas**
 - **Anatomía y Fisiología**: Estructura y función del cuerpo humano

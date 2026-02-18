@@ -1,15 +1,12 @@
 ---
 layout: default
 title: "Demencia"
-permalink: /categorias/salud-mental/psiquiatria/
+permalink: /salud-mental/neurociencias/demencia/
 nav_order: 3
-parent: "Salud Mental"
+has_children: true
+parent: "Neurociencias"
 ---
 
-# 🎓 Categorías del Blog Educativo
+#  Demencia
 
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Salud mental**
-
-# Demencia
+Aproximación al estudio de las demencias. 

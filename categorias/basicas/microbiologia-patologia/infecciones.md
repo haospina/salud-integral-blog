@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Ciencias Básicas"
-permalink: /categorias/basicas/
+title: "Infecciones"
+permalink: /basicas/microbiologia-patologia/infecciones/
 nav_order: 1
 has_children: true
 has_toc: true
-parent: "Ciencias Básicas"
+parent: "Microbiología y patologia"
 ---
 
 # 🔬 Ciencias Básicas

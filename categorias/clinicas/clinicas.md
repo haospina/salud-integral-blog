@@ -1,16 +1,10 @@
 ---
 layout: default
 title: "Ciencias Clínicas"
-permalink: /categorias/clinicas/
+permalink: /clinicas/
 nav_order: 2
-parent: "Ciencias Clínicas"
+has_children: true 
 ---
-
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Ciencias Clínicas**
-
-# Pensamiento clínico
+#  Ciencias clínicas
+Enfoque médico del paciente hospitalizado. 
 

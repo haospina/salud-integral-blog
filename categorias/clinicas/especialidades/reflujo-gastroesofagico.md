@@ -1,17 +1,9 @@
 ---
 layout: default
-title: "Categorías del Blog"
-permalink: /categorias/
-nav_order: 2
-parent: "Ciencias Clínicas"
+title: "Reflujo Gastroesofágico"
+permalink: /clinicas/especialidades/reflujo-gastroesofagico/
+nav_order: 3 
+parent: "Especialidades"
 ---
-
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Ciencias Clínicas**
-
-# Historia clínica
-
-# Reflujo gastroesofágico
+# Reflujo Gastroesofágico
+Descripción y abordaje clínico.

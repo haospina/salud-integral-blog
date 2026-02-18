@@ -1,17 +1,9 @@
 ---
 layout: default
-title: "Categorías del Blog"
-permalink: /categorias/
+title: "Falla cardiaca"
+permalink: /clinicas/medicina-interna/falla-cardiaca/
 nav_order: 2
-parent: "Ciencias Clínicas"
+parent: "Medicina interna"
 ---
-
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Ciencias Clínicas**
-
-# Historia clínica
-
-# Falla cardiaca
+#  Falla cardiaca
+Enfoque diagnóstico y terapéutico de los pacientes con falla cardiaca. 

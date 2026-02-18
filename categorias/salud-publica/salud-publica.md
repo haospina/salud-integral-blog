@@ -1,13 +1,10 @@
 ---
 layout: default
 title: "Salud Pública"
-permalink: /categorias/salud-publica
+permalink: /salud-publica/
 nav_order: 4
-parent: "Salud Publica"
+has_children: true 
 ---
 
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Salud publica**
+# Salud pública
+como parte del abordaje integral

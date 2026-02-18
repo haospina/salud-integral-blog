@@ -1,11 +1,9 @@
 ---
 layout: default
 title: "Generalidades"
-permalink: /categorias/basicas/anatomia-fisiologia/
+permalink: /basicas/anatomia-fisiologia/generalidades/
 nav_order: 1
-has_children: true
-has_toc: true
-parent: "Ciencias básicas"
+parent: "Anatomia y fisiologia"
 ---
 
 # 🔬 Ciencias Básicas

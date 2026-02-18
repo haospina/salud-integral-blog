@@ -1,16 +1,9 @@
 ---
 layout: default
-title: "Acueducto"
-permalink: /categorias/salud-publica/
-nav_order: 4
-parent: "Salud Publica"
+title: "Acueductos"
+permalink: /salud-publica/salud-comunitaria/acueductos/
+nav_order: 1
+parent: "Salud Comunitaria"
 ---
-
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Salud publica**
-
-
-# Acueducto
+# Acueductos
+Importancia de los sistemas de agua potable en salud comunitaria.

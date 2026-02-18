@@ -1,14 +1,10 @@
 ---
 layout: default
 title: "Salud Mental"
-permalink: /categorias/salud-mental
+permalink: /salud-mental
 nav_order: 3
-parent: "Salud Mental"
+has_children: true
 ---
 
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Salud mental**
-
+# Salud mental
+Sección dedicada a la psicología, psiquiatría y neurociencias. 

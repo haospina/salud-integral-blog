@@ -1,15 +1,9 @@
 ---
 layout: default
 title: "Dengue"
-permalink: /categorias/salud-publica/
-nav_order: 4
-parent: "Salud Pública"
+permalink: /salud-publica/epidemiologia/dengue/
+nav_order: 1
+parent: "Epidemiología"
 ---
-
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Salud publica**
-
-# Dengue
+#  Dengue
+Historia natural

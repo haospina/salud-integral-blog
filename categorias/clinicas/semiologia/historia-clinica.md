@@ -1,15 +1,9 @@
 ---
 layout: default
-title: "La historia clínica"
-permalink: /categorias/
-nav_order: 2
-parent: "Ciencias Clínicas"
+title: "Historia Clínica"
+permalink: /clinicas/semiologia/historia-clinica/
+nav_order: 1
+parent: "Semiología"
 ---
-
-# 🎓 Categorías del Blog Educativo
-
-Nuestro blog está organizado en cuatro pilares fundamentales de la educación médica:
-
-## 🔬 **Ciencias Clínicas**
-
-# Historia clínica
+# Historia Clínica
+Introducción a la elaboración de la historia clínica.
