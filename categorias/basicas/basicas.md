@@ -2,7 +2,7 @@
 layout: default
 title: "Ciencias Básicas"
 permalink: /categorias/basicas/
-nav_order: 3
+nav_order: 1
 has_children: true
 has_toc: true
 ---
