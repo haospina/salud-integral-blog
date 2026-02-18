@@ -17,46 +17,46 @@ just_the_docs:
   nav:
     - title: "Inicio"
       url: /
-    
+      
     - title: "👨‍⚕️ Ciencias Básicas"
       url: /categorias/basicas/
       children:
         - title: "Anatomía y Fisiología"
-          url: /categorias/anatomia-fisiologia/
+          url: /categorias/basicas/anatomia-fisiologia/
         - title: "Bioquímica y Biología Molecular"
-          url: /categorias/bioquimica/
+          url: /categorias/basicas/bioquimica/  
         - title: "Microbiología y Patología"
-          url: /categorias/microbiologia-patologia/
+          url: /categorias/basicas/microbiologia-patologia/  
     
     - title: "🏥 Ciencias Clínicas"
       url: /categorias/clinicas/
       children:
         - title: "Semiología y Diagnóstico"
-          url: /categorias/semiologia/
+          url: /categorias/clinicas/semiologia/ 
         - title: "Medicina Interna"
-          url: /categorias/medicina-interna/
+          url: /categorias/clinicas/medicina-interna/
         - title: "Especialidades"
-          url: /categorias/especialidades/
+          url: /categorias/clinicas/especialidades/
     
     - title: "🧠 Salud Mental"
       url: /categorias/salud-mental/
       children:
         - title: "Psicología Médica"
-          url: /categorias/psicologia-medica/
+          url: /categorias/salud-mental/psicologia-medica/
         - title: "Psiquiatría Clínica"
-          url: /categorias/psiquiatria/
+          url: /categorias/salud-mental/psiquiatria/
         - title: "Neurociencias"
-          url: /categorias/neurociencias/
+          url: /categorias/salud-mental/neurociencias/
     
     - title: "🌍 Salud Pública"
       url: /categorias/salud-publica/
       children:
         - title: "Epidemiología"
-          url: /categorias/epidemiologia/
+          url: /categorias/salud-publica/epidemiologia/
         - title: "Medicina Social"
-          url: /categorias/medicina-social/
+          url: /categorias/salud-publica/medicina-social/
         - title: "Salud Comunitaria"
-          url: /categorias/salud-comunitaria/
+          url: /categorias/salud-publica/salud-comunitaria/ 
     
     - title: "📚 Recursos"
       url: /recursos/
@@ -86,7 +86,7 @@ just_the_docs:
 
 # Autor y configuración institucional
 author:
-  name: "Salud Integral - Educación Médica"
+  name: "Héctor Augusto Ospina Angarita"
   email: "educacion@salud-integral.www-haosp.org"
   twitter: "SaludIntegralMed"
 
