@@ -19,44 +19,44 @@ just_the_docs:
       url: /
       
     - title: "👨‍⚕️ Ciencias Básicas"
-      url: /categorias/basicas/
+      url: /basicas/
       children:
         - title: "Anatomía y Fisiología"
-          url: /categorias/basicas/anatomia-fisiologia/
+          url: /basicas/anatomia-fisiologia/
         - title: "Bioquímica y Biología Molecular"
-          url: /categorias/basicas/bioquimica/  
+          url: /basicas/bioquimica/  
         - title: "Microbiología y Patología"
-          url: /categorias/basicas/microbiologia-patologia/  
+          url: /basicas/microbiologia-patologia/  
     
     - title: "🏥 Ciencias Clínicas"
-      url: /categorias/clinicas/
+      url: /clinicas/
       children:
         - title: "Semiología y Diagnóstico"
-          url: /categorias/clinicas/semiologia/ 
+          url: /clinicas/semiologia/ 
         - title: "Medicina Interna"
-          url: /categorias/clinicas/medicina-interna/
+          url: /clinicas/medicina-interna/
         - title: "Especialidades"
-          url: /categorias/clinicas/especialidades/
+          url: /clinicas/especialidades/
     
     - title: "🧠 Salud Mental"
-      url: /categorias/salud-mental/
+      url: /salud-mental/
       children:
         - title: "Psicología Médica"
-          url: /categorias/salud-mental/psicologia-medica/
+          url: /salud-mental/psicologia-medica/
         - title: "Psiquiatría Clínica"
-          url: /categorias/salud-mental/psiquiatria/
+          url: /salud-mental/psiquiatria/
         - title: "Neurociencias"
-          url: /categorias/salud-mental/neurociencias/
+          url: /salud-mental/neurociencias/
     
     - title: "🌍 Salud Pública"
-      url: /categorias/salud-publica/
+      url: /salud-publica/
       children:
         - title: "Epidemiología"
-          url: /categorias/salud-publica/epidemiologia/
+          url: /salud-publica/epidemiologia/
         - title: "Medicina Social"
-          url: /categorias/salud-publica/medicina-social/
+          url: /salud-publica/medicina-social/
         - title: "Salud Comunitaria"
-          url: /categorias/salud-publica/salud-comunitaria/ 
+          url: /salud-publica/salud-comunitaria/ 
     
     - title: "📚 Recursos"
       url: /recursos/
