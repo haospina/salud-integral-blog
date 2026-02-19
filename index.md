@@ -1,9 +1,9 @@
 ---
-layout: home
-title: "Salud Integral - Educación Médica"
-description: "Espacio educativo para estudiantes de medicina integrando ciencias básicas, clínicas, salud mental y salud pública"
+layout: default
+title: "Inicio"
+permalink: /
+nav_order: 1
 ---
-
 
 # 🏥 ¡Bienvenido a Salud Integral!
 

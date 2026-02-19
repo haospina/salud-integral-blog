@@ -2,9 +2,8 @@
 layout: default
 title: "Salud Pública"
 permalink: /salud-publica/
-nav_order: 4
+nav_order: 5
 has_children: true 
 ---
-
-# Salud pública
+#  Salud pública
 como parte del abordaje integral

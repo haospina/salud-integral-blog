@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Contacto"
 permalink: /contacto/
+nav_order: 6
 ---
 # Contáctanos
 
