@@ -12,77 +12,8 @@ just_the_docs:
   search_enabled: true
   heading_anchors: true
   color_scheme: "light"
-  
-  # Navegación estructurada
-  nav:
-    - title: "Inicio"
-      url: /
-      
-    - title: "👨‍⚕️ Ciencias Básicas"
-      url: /basicas/
-      children:
-        - title: "Anatomía y Fisiología"
-          url: /basicas/anatomia-fisiologia/
-        - title: "Bioquímica y Biología Molecular"
-          url: /basicas/bioquimica/  
-        - title: "Microbiología y Patología"
-          url: /basicas/microbiologia-patologia/  
-    
-    - title: "🏥 Ciencias Clínicas"
-      url: /clinicas/
-      children:
-        - title: "Semiología y Diagnóstico"
-          url: /clinicas/semiologia/ 
-        - title: "Medicina Interna"
-          url: /clinicas/medicina-interna/
-        - title: "Especialidades"
-          url: /clinicas/especialidades/
-    
-    - title: "🧠 Salud Mental"
-      url: /salud-mental/
-      children:
-        - title: "Psicología Médica"
-          url: /salud-mental/psicologia-medica/
-        - title: "Psiquiatría Clínica"
-          url: /salud-mental/psiquiatria/
-        - title: "Neurociencias"
-          url: /salud-mental/neurociencias/
-    
-    - title: "🌍 Salud Pública"
-      url: /salud-publica/
-      children:
-        - title: "Epidemiología"
-          url: /salud-publica/epidemiologia/
-        - title: "Medicina Social"
-          url: /salud-publica/medicina-social/
-        - title: "Salud Comunitaria"
-          url: /salud-publica/salud-comunitaria/ 
-    
-    - title: "📚 Recursos"
-      url: /recursos/
-      children:
-        - title: "Guías de Publicación"
-          url: /recursos/guias-publicacion/
-        - title: "Formatos Casos Clínicos"
-          url: /recursos/formatos-casos/
-        - title: "Plantillas Investigación"
-          url: /recursos/plantillas-investigacion/
-    
-    - title: "👥 Para Estudiantes"
-      url: /estudiantes/
-      children:
-        - title: "Cómo Publicar"
-          url: /estudiantes/como-publicar/
-        - title: "Criterios de Evaluación"
-          url: /estudiantes/criterios-evaluacion/
-    
-    - title: "👨‍🏫 Para Profesores"
-      url: /profesores/
-      children:
-        - title: "Guía de Tutores"
-          url: /profesores/guia-tutores/
-        - title: "Rúbricas de Evaluación"
-          url: /profesores/rubricas/
+  # No definimos 'nav:' porque la navegación se construye automáticamente
+  # a partir de los front matter de cada archivo .md
 
 # Autor y configuración institucional
 author:
@@ -92,7 +23,7 @@ author:
 
 institution:
   name: "Programa de Medicina"
-  department: "Ciencias Clinicas"
+  department: "Ciencias Clínicas"
   university: "Universidad del Tolima"
 
 # Configuración build
